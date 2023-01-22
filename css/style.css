@@ -76,3 +76,8 @@ img{
     margin-bottom: 0px;
     margin-top: 15px;
 }
+@media (width<567px) {
+    .main {
+        min-height: 1800px;
+    }
+}
